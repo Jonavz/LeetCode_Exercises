@@ -31,5 +31,5 @@ var validMountainArray = function (arr) {
 };
 
 
-const arr = [2,1];
-console.log(validMountainArray(arr));
+//const arr = [2,1];
+//console.log(validMountainArray(arr));
