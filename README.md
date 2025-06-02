@@ -14,3 +14,4 @@ Exercises are grouped in folders by type of problem (e.g.,  `arrays`, `linked_li
 - `binary_search/`
 - `linked_lists/`
 - `hashing/`
+- `closures/`
